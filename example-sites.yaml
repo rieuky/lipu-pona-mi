@@ -9,17 +9,22 @@ research_sites:
         link: "https://www.connectedpapers.com/"
       - name: "Paper with Code"
         link: "https://paperswithcode.com/"
+      - name: "IEEE Robotics and Automation Letters (RA-L) current issue"
+        link: "https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7083369"
 
   - category: "Robotics Laboratories"
     sites:
-      - name: "Space Robotics Group (SRG), Keio University, JAPAN: Genya Ishigami"
-        link: "http://www.srg.mech.keio.ac.jp/"
       - name: "Robotics Institute (RI), Carnegie Mellon University, USA: Kanade Takeo, Maxim Likhachev, Howie Choset, etc."
         link: "https://www.ri.cmu.edu/"
       - name: "Robotic Systems Lab (RSL), ETH Zurich, SWITZERLAND: Marco Hutter"
         link: "https://rsl.ethz.ch/research/researchtopics/rl-robotics.html"
       - name: "Berkeley Robot Learning Lab, UC Berkeley, USA: Pieter Abbeel"
         link: "http://rll.berkeley.edu/"
+      - name: "Robotics AI & Learning Lab (RAIL), UC Berkeley, USA: Sergey Levine"
+        link: "https://rail.eecs.berkeley.edu/publications.html"
+      - name: "Vehicle Autonomy and Intelligence Lab, Indiana Univ., USA: Lantao Liu"
+        link: "https://vail.sice.indiana.edu/pages/publications.html"
+
 
   - category: "Coding"
     sites:
